@@ -9,6 +9,8 @@ The Telegram Ai Chat Bot. Created By Mr nima. Powerd By Chatgpt Api.
 <h4> USE AI CHAT BOTS </h4>
 
 [`𝗢𝗡 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣`](https://chat.whatsapp.com/JOj4TlGpvYx6kfxzh1gUUA)  |  [`𝗢𝗡 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠`](https://t.me/chat_gpt_ASK3_bot)
+<br>
+<h3>🌟 Don't forget to give Star to This Bot.</h3>
 </div><br>
 
 ##  Add Your Details in to [Config.json](Config.json) 
@@ -25,13 +27,22 @@ You Must Put Telegram Bot Token From Bot Father to Deploy This Bot
 
 <br>
 
+### Command Texts
+
+```
+start - 👋 Start Telegram AI Bot
+runtime - ⏱️ Check Bot's Alive Time
+
+```
+<br>
+
 ## Termux Deploy.
 ```
 #> To Clone Bot's Github.
-git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT
+git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot
 
 #> To Open Cloned Bot Folder.
-cd TELEGRAM-AI-BOT
+cd Telegram-AI-Chat-Bot
 
 #> To install Bot's Packages.
 npm install
@@ -40,7 +51,7 @@ npm install
 npm start
 ```
 ```
-git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT && cd TELEGRAM-AI-BOT && npm install && npm start
+git clone https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot && cd Telegram-AI-Chat-Bot && npm install && npm start
 ```
 
 
@@ -50,7 +61,10 @@ git clone https://github.com/DarkMakerofc/TELEGRAM-AI-BOT && cd TELEGRAM-AI-BOT 
 
 
 # Heroku Deploy
-Video Upload Will Soon ...
+[`Heroku Deploy Button`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Telegram-AI-Chat-Bot)<br><br>
+<a href="https://youtu.be/9ITSj_hGK04">
+  <img src="https://telegra.ph/file/55fe37b1612b9201b0c1b.jpg" alt="Youtube Video" width="330" height="200">
+</a>
 # Replit Deploy
 Video Upload Will Soon ...
 # 
